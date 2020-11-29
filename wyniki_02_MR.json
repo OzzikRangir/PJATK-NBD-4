@@ -1,0 +1,8 @@
+MongoDB shell version v4.4.1
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("40ef9ca5-ed88-4385-b0e7-3be0e55ca833") }
+MongoDB server version: 4.4.1
+uncaught exception: TypeError: db.people.mapReduce(...).toArray is not a function :
+@zapytanie_02_MR.js:1:11
+failed to load: zapytanie_02_MR.js
+exiting with code -3
